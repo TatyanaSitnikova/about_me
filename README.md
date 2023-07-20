@@ -6,7 +6,7 @@
 2. У меня есть муж, дочка, собака и кот
 3. Больше всего на свете люблю читать и слушать музыку
 
-![Это я!]("C:\Users\ASUS ROG\Desktop\about_me\images\1.jpg")
+![Это я!] ("C:\Users\ASUS ROG\Desktop\about_me\images\1.jpg")
 
 
 
